@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI Variable';
+    background-color: black;
+}
+#load {
+    width: 200px;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+}
+.j {
+    margin: 0;
+    position: absolute;
+    top: 57%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+}
+#textper {
+    position: relative;
+    left: 25%;
+    font-size: 20px;
+}
+#textpls {
+    position: relative;
+    font-size: 20px;
+}
