@@ -1,2 +1,2 @@
-# FakeWindows11Update
-no more microhard stealing woomp woomp
+## notices
+will only work on windows 11 or if you have installed the 'Segoe UI Variable' font is installed.
